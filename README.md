@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on FRONTEND DEVELOPER<br>👯 I’m looking to collaborate on software testing related contents<br>🤝 I’m looking for help with the issues on reactjs<br>🌱 I’m currently learning Backend developer<br>💬 Ask me about FRONTEND<br>⚡ Fun fact I'm mechanical guy
+🔭 I’m currently working on FRONTEND DEVELOPER<br>👯 I’m looking to collaborate on software testing related contents<br>🤝 I’m looking for help with the issues on reactjs<br>🌱 I’m currently learning Backend developer<br>💬 Ask me about FRONTEND
 
 
 ## 🌐 Socials:
